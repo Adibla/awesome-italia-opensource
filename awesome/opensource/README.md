@@ -16,7 +16,7 @@ Please read the [contribution guidelines](https://github.com/italia-opensource/a
 
 #### Website view
 
-[italiaopensource.com](https://italiaopensource.com/opensource)
+[italiaopensource.com](https://italiaopensource.com/opensources)
 
 #### List
 
